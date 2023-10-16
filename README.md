@@ -19,14 +19,14 @@ The table must have the name: 'usuario'.
 
 The following fields are created: 
 
-id --> With autoincrement
-Apellido_paterno
-Apellido_materno
-Nombre
-No_de_cuenta
-Tipo_de_profesor
-email_institucional
-usuario
+id --> With autoincrement,
+Apellido_paterno,
+Apellido_materno,
+Nombre,
+No_de_cuenta,
+Tipo_de_profesor,
+email_institucional,
+usuario,
 contrasena
 
 Once the process is completed, reload the --> http://localhost/login-register/ website.
